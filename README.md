@@ -71,6 +71,8 @@ Refrences:
 
 ## How to prepare gomobile enviroment for Flutter
 
+ ### For android:  
+
 Install NDK in Android Studio and config env (must):
 
 [#Installing+the+Android+NDK](https://wiki.appcelerator.org/display/guides2/Installing+the+Android+NDK)
@@ -91,7 +93,7 @@ get the hello example and bind it to your project.
     $ gomobile bind -target=android golang.org/x/mobile/example/bind/hello
     $ cp hello.aar ~/!!path-to!!/hello_go/android/hello/
 
-Use aar module for your Flutter projecet. For android:   
+Use aar module for your Flutter projecet.
 
    a. File -> New -> New Module ... -> Import .JAR/.AAR Package find hello.aar and load it
 
@@ -102,8 +104,10 @@ Use aar module for your Flutter projecet. For android: 
    }
 
    c. Go Run!!! :)
+     
+### For IOS :
    
- Ref:  https://github.com/golang/go/wiki/Mobile#building-and-deploying-to-ios 
+  please Ref  https://github.com/golang/go/wiki/Mobile#building-and-deploying-to-ios 
 
     
   
