@@ -14,7 +14,7 @@ Open the IOS folder with xcode , and Run!!!
 
 1.Make sure your Flutter is installed ok , check it with Flutter doctor like this.
 
-    $run flutter doctor
+    $flutter doctor
     Doctor summary (to see all details, run flutter doctor -v):
          [✓] Flutter (Channel master, v0.3.1-pre.7, on Mac OS X 10.13.4 17E199, locale zh-Hans-US)
          [✓] Android toolchain - develop for Android devices (Android SDK 27.0.3)
