@@ -8,7 +8,7 @@ For help getting started with Flutter, view our online documentation.
 
 ## How to run on IOS
 
-``Open the IOS folder with xcode , and Run!!!
+Open the IOS folder with xcode , and Run!!!
 
 ## How to run on Android
 
