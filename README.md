@@ -1,6 +1,6 @@
 # hello_go
 
-A new Flutter application to use aar lib created by gomobile. (android and IOS both support!!!)
+A new Flutter application to use aar lib(android) and framework(ios) create by gomobile. (android and IOS both support!!!)
 
 ## Getting Started
 
