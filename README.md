@@ -47,7 +47,7 @@ Open the IOS folder with xcode , and Run!!!
 
 ## Known Bugs or Issues
 
-this project will crash on x86 simulator of API 25/26 (Anroid 7.x) , i do not find a solution yet: the similar bug is discussed to this #15925
+this project will crash on x86 simulator of API 25/26 (Anroid 7.x) , i do not find a solution yet: the similar bug is discussed to this [#15925](https://github.com/flutter/flutter/issues/15925)
      
      I/flutter: Observatory listening on http://127.0.0.1:40638/
      D/: HostConnection::get() New Host Connection established 0xa829de00, tid 18383
