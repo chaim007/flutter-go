@@ -97,10 +97,10 @@ Use aar module for your Flutter projecet.
 
    a. File -> New -> New Module ... -> Import .JAR/.AAR Package find hello.aar and load it
 
-   b. In file android-aar-simple/UseFoo/app/build.gradle add line:
+   b. In file !!path-to!!/app/build.gradle add line:
 
    dependencies {
-     compile project(":foo-debug")
+     implementation project(':hello')
    }
 
    c. Go Run!!! :)
