@@ -99,9 +99,9 @@ Use aar module for your Flutter projecet.
 
    b. In file !!path-to!!/app/build.gradle add line:
 
-   dependencies {
-     implementation project(':hello')
-   }
+       dependencies {
+         implementation project(':hello')
+       }
 
    c. Go Run!!! :)
      
